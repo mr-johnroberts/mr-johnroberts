@@ -30,6 +30,9 @@ I am a seasoned Fullstack Developer with over 8 years of expertise in creating i
 ### **Databases**:
 - MySQL, MongoDB, PostgreSQL
 
+### **Content Management Systems + Page Builders**:
+- WordPress, Shopify, Webflow, Magento, Elementor, KingComposer
+
 ### **Other Expertise**:
 - AI Model Fine-Tuning (RLHF)
 - SEO and Digital Marketing Strategies
