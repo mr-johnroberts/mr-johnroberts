@@ -34,7 +34,6 @@ I am a seasoned Fullstack Developer with over 8 years of expertise in creating i
 -  Git
 -  Docker
 -  CI/CD
--  MATLAB
 
 ### **Content Management Systems + Page Builders**:
 - WordPress, Shopify, Webflow, Magento, Elementor, KingComposer
