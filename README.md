@@ -1,7 +1,7 @@
 # Hi there 👋, I'm John Roberts!
 
 ## ❤️ Summary
-I am a seasoned Fullstack Developer with over 8 years of expertise in creating innovative, user-focused digital solutions. My work spans over 50 diverse projects, leveraging technologies like React.js, Laravel, and MongoDB. Additionally, I specialize in AI model training and optimization through techniques like RLHF (Reinforcement Learning from Human Feedback). I am passionate about using technology to solve real-world problems.
+I am a seasoned Fullstack Developer with over 8 years of expertise in creating innovative, user-focused digital solutions. My work spans over 50 diverse projects, leveraging technologies like HTML3, JavaScript, React.js, Laravel, PHP, MySQL, PostgreSQL, WordPress, and Elementor. Additionally, I specialize in AI model training and optimization through techniques like SPF (Supervised Fine-Tuning) and RLHF (Reinforcement Learning from Human Feedback). I am passionate about using technology to solve real-world problems.
 
 ---
 
