@@ -24,11 +24,17 @@ I am a seasoned Fullstack Developer with over 8 years of expertise in creating i
 ### **Languages**:
 - HTML5, JavaScript, Python, PHP
 
-### **Frameworks & Tools**:
-- React.js, Next.js, Tailwind CSS, Laravel
+### **Frameworks & Libraries**:
+- React.js, Next.js, Tailwind CSS, Laravel, Bootstrap
 
 ### **Databases**:
-- MySQL, MongoDB, PostgreSQL
+- MySQL, PostgreSQL
+
+### **Tools & Platforms**:
+-  Git
+-  Docker
+-  CI/CD
+-  MATLAB
 
 ### **Content Management Systems + Page Builders**:
 - WordPress, Shopify, Webflow, Magento, Elementor, KingComposer
@@ -37,6 +43,8 @@ I am a seasoned Fullstack Developer with over 8 years of expertise in creating i
 - AI Model Fine-Tuning (RLHF)
 - SEO and Digital Marketing Strategies
 - Microsoft Azure and AWS Services
+- Project Management
+- Data Analysis
 
 ---
 
